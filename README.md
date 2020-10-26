@@ -3,12 +3,5 @@ One of the interesting theory known to us since our childhood is how we can diff
 For example: for the letter ‘A’ – Firstly, 2nd to 8th LEDs are kept high for the first column; then with a delay, 1st and 5th LEDs are kept high and same for the next 3 columns. The last column is again the same as first column.
 
 
-HARDWARE COMPONENTS:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Quantity
-1. ARDUINO UNO MICROCONTROLLER-    																			2
-2. LIPO BATTERY 24V																											1
-3. 30A BLDC STANDARD ELECTRONIC SPEED CONTROLLER (ESC) 									1
-4. BLDC Motor																														1 
-5. 9V CAN Battery																												2
-6. Wooden ply to support the base
 
 
