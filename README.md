@@ -9,7 +9,7 @@ For example: for the letter ‘A’ – Firstly, 2nd to 8th LEDs are kept high f
 
 ## Video
 
-(Link)[https://www.youtube.com/watch?v=3wd-DGOR_Hw]
+[Link](https://www.youtube.com/watch?v=3wd-DGOR_Hw)
 
 
 
